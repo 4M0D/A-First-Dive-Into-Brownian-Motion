@@ -1,3 +1,4 @@
+# A First Dive into Brownian Motion
 ## Preface
 
 Cells, the units of life, are sophisticated microscopic machines made of organelles and macromolecules. These components of the cell undergo collisions with molecules of the cytoplasmic fluid (cytosol), leading to erratic motion. Motivated by their significance to us as living beings ourselves, this text is a stepping stone into such dynamics as an exploration of Brownian motion in one dimension. We start our discussion with how position and velocity correlations evolve with time for a Brownian particle and how the ‘Langevin equation’ helps us model its dynamics. We then briefly review some concepts from stochastic calculus and use them to derive the Fokker–Planck equation, a second-order linear PDE describing the evolution of the probability distribution of the position and velocity of such a particle. Finally, we test some results derived in the text via numerical simulation.
