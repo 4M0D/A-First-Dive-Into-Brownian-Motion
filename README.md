@@ -7,7 +7,7 @@ Link to pdf: [A_First_Dive_Into_Brownian_Motion.pdf](A_First_Dive_Into_Brownian_
 
 ---
 
-## Python scripts for numerical simulation discussed:
+## Python scripts for numerical simulations discussed:
 
 The Python scripts implement the numerical Langevin integration schemes detailed in **Section 4: Simulating Langevin Dynamics**:
 
